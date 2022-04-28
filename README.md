@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [**Talkdesk**](https://www.talkdesk.com/)
 
-- 📫 You may reach me **joaofrca@gmail.com**
+- 📫 You may reach me at **joaofrca@gmail.com**
 
 - ⚡ Fun fact... **You can call me 'Alvarinhas' :)**
 
