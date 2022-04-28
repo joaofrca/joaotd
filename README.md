@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there 👋, I'm João Costa!</h1>
 <h3 align="left">A passionate software engineer currently living in Porto, Portugal.</h3>
 
-- 🔭 I’m currently working at [Talkdesk](https://www.talkdesk.com/)
+- 🔭 I’m currently working at [**Talkdesk**](https://www.talkdesk.com/)
 
 - 📫 You may reach me **joaofrca@gmail.com**
 
