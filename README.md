@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **joaotd/joaotd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm João Costa!</h1>
+<h1 align="center">Hi there 👋, I'm João Costa!</h1>
 <h3 align="center">A passionate software engineer currently living in Porto, Portugal.</h3>
 
 - 🔭 I’m currently working at [Talkdesk](https://www.talkdesk.com/)
 
-- 📫 How to reach me **joaofrca@gmail.com**
+- 📫 You may reach me **joaofrca@gmail.com**
 
-- ⚡ Fun fact **You can call me 'Alvarinhas' :)**
+- ⚡ Fun fact... **You can call me 'Alvarinhas' :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
