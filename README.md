@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm João Costa!</h1>
-<h3 align="center">A passionate software engineer currently living in Porto, Portugal.</h3>
+<h1 align="left">Hi there 👋, I'm João Costa!</h1>
+<h3 align="left">A passionate software engineer currently living in Porto, Portugal.</h3>
 
 - 🔭 I’m currently working at [Talkdesk](https://www.talkdesk.com/)
 
