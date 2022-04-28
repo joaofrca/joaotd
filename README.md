@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 You may reach me at **joaofrca@gmail.com**
 
-- ⚡ Fun fact... **You can call me 'Alvarinhas' :)**
+- ⚡ Fun fact... **You can call me 'Alvarinhas' 😄 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
